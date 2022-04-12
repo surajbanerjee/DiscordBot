@@ -1,2 +1,10 @@
-# DiscordBot
-A discord Bot for user friendly Reply.
+# #Introduction
+This is a interactive Discord Bot, Which Help user to view information.
+
+# #code
+
+>main.py
+
+>keep_alive.py
+
+>uptimerobot.com
